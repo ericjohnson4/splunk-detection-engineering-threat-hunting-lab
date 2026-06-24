@@ -1,0 +1,2 @@
+index=security_lab EventCode=4625
+| table _time, Account_Name, Source_Network_Address, Logon_Type
