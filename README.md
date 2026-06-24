@@ -1,6 +1,6 @@
 # Splunk Detection Engineering and Threat Hunting Lab
 
-![Windows Authentication Dashboard](SCREENSHOTS/Figure21_Authentication_Dashboard.png)
+![Windows Authentication Activity Dashboard](SCREENSHOTS/Figure_21_Windows_Authentication_Activity_Dashboard.png)
 ![Splunk](https://img.shields.io/badge/SIEM-Splunk%20Enterprise-blue)
 ![Windows](https://img.shields.io/badge/Platform-Windows%2011-0078D4)
 ![PowerShell](https://img.shields.io/badge/Logging-PowerShell-5391FE)
