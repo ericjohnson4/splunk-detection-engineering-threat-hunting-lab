@@ -1,0 +1,2 @@
+index=security_lab EventCode=4720
+| table _time, TargetUserName, SubjectUserName
