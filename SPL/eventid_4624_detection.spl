@@ -1,0 +1,2 @@
+index=security_lab EventCode=4624
+| table _time, Account_Name, Logon_Type
