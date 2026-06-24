@@ -1,0 +1,2 @@
+index=security_lab EventCode=4104
+| table _time, Message
